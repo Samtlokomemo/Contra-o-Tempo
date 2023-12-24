@@ -1,0 +1,1 @@
+draw_text(200, 10, ds_grid_get(grid, 360, 1))

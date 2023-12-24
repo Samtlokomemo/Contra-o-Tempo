@@ -1,0 +1,1 @@
+global.levelclean = true
